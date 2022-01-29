@@ -1,0 +1,6 @@
+﻿2022-01-29 13:11:33.3582 DEBUG Debug successful
+2022-01-29 13:11:33.4591 INFO Successfully caluculated sum:30
+2022-01-29 13:12:24.3802 DEBUG Debug Unsuccessful due to wrong inputs
+2022-01-29 13:12:24.4211 ERROR Providing wrong logger.Error(Providing wrong inputs
+2022-01-29 13:13:39.0817 DEBUG Debug successful
+2022-01-29 13:13:39.1297 INFO Successfully caluculated sum:120
